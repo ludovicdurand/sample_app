@@ -1,0 +1,20 @@
+development:
+  adapter: postgresql
+  host: localhost
+  username: postgres
+  password: lm2p&1tgs
+  database: app-dev
+
+test:
+  adapter: postgresql
+  host: localhost
+  username: postgres
+  password: lm2p&1tgs
+  database: app-dev
+
+production:
+  adapter: postgresql
+  host: localhost
+  username: postgres
+  password: lm2p&1tgs
+  database: app-dev
